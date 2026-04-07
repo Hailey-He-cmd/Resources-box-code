@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Resource Code Generator Tool",
+  "description": "A tool to generate JSON resource code from AI image prompts.",
+  "requestFramePermissions": []
+}
